@@ -10,7 +10,7 @@
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
-			<br><br>Java
+			<br>Java
 		</td>
 		<td align="center" width="96">
 			<a href="#macropower-tech">
@@ -28,21 +28,21 @@
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
-			<br><br>HTML5
+			<br>HTML5
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon" />
-			<br><br>CSS
+			<br>CSS
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="icon" />
-			<br><br>PHP
+			<br>PHP
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="icon" />
-			<br><br>Solidity
+			<br>Solidity
 		</td>
 		<td align="center" width="96">
 			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -50,15 +50,15 @@
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="icon" />
-			<br><br>PostgreSQL
+			<br>PostgreSQL
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="icon" />
-			<br><br>MongoDB
+			<br>MongoDB
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="icon" />
-			<br><br>SQLite
+			<br>SQLite
 		</td>
 		<td align="center" width="96">
 			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -66,11 +66,11 @@
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=flask" alt="icon" width="48" height="48" />
-			<br><br>Flask
+			<br>Flask
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
-			<br><br>Nodejs
+			<br>Nodejs
 		</td>
 		<td align="center" width="96">
 			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -80,39 +80,40 @@
 	<tr>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="icon" />
-			<br><br>Angular
+			<br>Angular
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
-			<br><br>Laravel
+			<br>Laravel
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
-			<br><br>Bootstrap
+			<br>Bootstrap
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
-			<br><br>Tailwind
+			<br>Tailwind
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="icon" />
-			<br><br>jQuery
+			<br>jQuery
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="icon" />
-			<br><br>Unity
+			<br>Unity
 		</td>
 		<td align="center" width="96">
 			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 			<br>Github
 		</td>
 		<td align="center" width="96">
-			<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+			<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+				width="48" height="48" alt="Git" />
 			<br>Git
 		</td>
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
-			<br><br>VsCode
+			<br>VsCode
 		</td>
 	</tr>
 </table>
