@@ -35,7 +35,7 @@
 			<br>PHP
 		</td>
 		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+			<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="PHP" />
 			<br>Solidity
 		</td>
 	</tr>
