@@ -153,6 +153,5 @@
 			<img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="icon" />
 			<br>Stack Overflow
 		</td>
-
 	</tr>
 </table>
