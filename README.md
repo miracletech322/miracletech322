@@ -116,4 +116,43 @@
 			<br>VsCode
 		</td>
 	</tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="icon" />
+			<br>Qt
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="icon" />
+			<br>.NET
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="icon" />
+			<br>Visual Studio
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="icon" />
+			<br>Sublime
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="icon" />
+			<br>Windows
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="icon" />
+			<br>Linux
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="icon" />
+			<br>NPM
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="icon" />
+			<br>Vite
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="icon" />
+			<br>Stackoverflow
+		</td>
+
+	</tr>
 </table>
